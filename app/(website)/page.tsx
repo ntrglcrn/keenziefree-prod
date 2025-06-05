@@ -1,8 +1,8 @@
-export default function HomePage() {
+export default function WebsiteHome() {
   return (
-    <div>
+    <main>
       <h1>Главная страница</h1>
-      <p>Контент главной страницы сайта</p>
-    </div>
+      <p>Контент пока временный</p>
+    </main>
   );
 }
